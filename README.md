@@ -40,7 +40,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/mytoken.git
 cd mytoken
-
+```
 # Usage
 The complete contract code provides detailed usage information. However, in general:
 
